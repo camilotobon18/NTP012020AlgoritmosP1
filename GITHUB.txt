@@ -1,0 +1,18 @@
+README Se deja sin chulo
+Protocolos para comunicarnos con el servidor 
+https
+SSH //este es mas seguro
+
+los proyectos pueden tener muchos remotes
+la comunicacion es bidireccional y se divide en
+
+push
+
+se crea un archivo de texto, se denomina .gitignore, se debe habilitar las extensiones 
+build/      carpeta
+build.xml   archivo
+
+
+git status
+
+git add -A
